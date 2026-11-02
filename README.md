@@ -21,4 +21,4 @@ Python · LangChain / LlamaIndex · Vector databases · LLM APIs · MATLAB · St
 Coming soon: a research-paper assistant that answers questions from engineering papers with cited sources.
 
 ### Contact
-[LinkedIn]: https://www.linkedin.com/in/arbab-latif/
+[[LinkedIn](https://www.linkedin.com/in/arbab-latif/)]: 
